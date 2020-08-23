@@ -1,5 +1,4 @@
-### Hi, I'm Santiago Gálvez Lasso <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-[![Gmail Badge](https://img.shields.io/badge/-santiagogalvez17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:santiagogalvez17@gmail.com)](mailto:santiagogalvez17@gmail.com)
+### Hi, I'm Santiago Gálvez Lasso <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <!--
 **Sagsso/sagsso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,5 +15,4 @@
 
 
 ### Contact me
-
 - Email - santiagogalvez17@gmail.com
