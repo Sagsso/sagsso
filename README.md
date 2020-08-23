@@ -2,7 +2,7 @@
 <!--
 **Sagsso/sagsso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-#⚡ I'm a Multimedia Engineering student at San Buenaventura University (Cali🇨🇴) ⚡
+# ⚡ I'm a Multimedia Engineering student at San Buenaventura University (Cali🇨🇴) ⚡
 
 - 🔭 I’m currently focusing on Web Development
 - :man_technologist: Front-end development using **HTML, JavaScript, CSS, SCSS, Angular**
