@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi, I'm Santiago Gálvez Lasso <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">>
 
 <!--
 **Sagsso/sagsso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a Multimedia Engineering student at San Buenaventura University (Cali🇨🇴).
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
