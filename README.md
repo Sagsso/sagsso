@@ -12,6 +12,7 @@
 ### Best Projects
 - Music Player - https://sagsso.github.io/MusicPlayer-SantiagoGalvezFranciscoJimenez/
 - API Carreras de autos - https://github.com/Sagsso/CarrerasAPI
+- Chat SocketIO - https://github.com/Sagsso/Chat-SocketIO
 - Bombarda - DEMO 3D Videogame - https://sagsso.github.io/Bombarda/
 
 ### Contact me
