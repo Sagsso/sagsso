@@ -15,5 +15,10 @@
 - Chat SocketIO - https://github.com/Sagsso/Chat-SocketIO
 - Bombarda - DEMO 3D Videogame - https://sagsso.github.io/Bombarda/
 
+### Projects under development
+- Frontend HB Store - Mobile Version - **Angular** - https://github.com/Sagsso/HB-Store-Frontend
+- Backend HB Store - **Express + TypeORM (MySQL)** - https://github.com/Sagsso/HB-Store-API
+
+
 ### Contact me
 - Email - santiagogalvez17@gmail.com
