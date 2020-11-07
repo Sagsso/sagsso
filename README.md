@@ -9,11 +9,11 @@
 - 🌱 I’m constantly learning and creating my own personal projects.
 - 🤝 I like meetups
 
-### Best Projects
+### Some Projects
 - Music Player - https://sagsso.github.io/MusicPlayer-SantiagoGalvezFranciscoJimenez/
+- 3D Painter for Kids - https://sagsso.github.io/3D-Painter/
 - API Carreras de autos - https://github.com/Sagsso/CarrerasAPI
 - Chat SocketIO - https://github.com/Sagsso/Chat-SocketIO
-- Bombarda - DEMO 3D Videogame - https://sagsso.github.io/Bombarda/
 
 ### Projects under development
 - Frontend HB Store - Mobile Version - **Angular** - https://github.com/Sagsso/HB-Store-Frontend
