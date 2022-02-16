@@ -1,7 +1,7 @@
 ## Hi, I'm Santiago Gálvez Lasso <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 
-### ⚡ I'm a Multimedia Engineering student at San Buenaventura University (Cali, 🇨🇴) 
+### ⚡ I'm Multimedia Engineer (Cali, 🇨🇴) 
 
 - 🔭 I’m currently focusing on Web Development
 - :man_technologist: Front-end development using **HTML, JavaScript, CSS, SCSS, Angular**
