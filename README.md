@@ -3,7 +3,7 @@
 
 ### ⚡ I'm Product Owner (Cali, 🇨🇴) 
 
-- 🔭 My previous experience on Web Development
+- 🔭 My previous experience on Web Development:
 - :man_technologist: Front-end development using **HTML, JavaScript, CSS, SCSS, Angular**
 - :computer: Backend development using **Node.js, express, PHP, TypeORM**
 - 🌱 I’m constantly learning and creating my own personal projects.
